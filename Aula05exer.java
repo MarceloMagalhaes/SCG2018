@@ -17,7 +17,12 @@ public class Aula05exer {
     public static void main(String[] args) {
         System.out.println("Ola Mundo!!!!!!!");
         System.out.println("Testando no git");
+<<<<<<< HEAD
+	System.out.println("Minha vez de testar"); //gabi
+    }
+=======
 	System.out.println("Trabalhando ao mesmo tempo no arquivo teste");   
  }
+>>>>>>> origin
     
 }
