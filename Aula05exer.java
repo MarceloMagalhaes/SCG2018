@@ -17,6 +17,7 @@ public class Aula05exer {
     public static void main(String[] args) {
         System.out.println("Ola Mundo!!!!!!!");
         System.out.println("Testando no git");
+	System.out.println("Minha vez de testar"); //gabi
     }
     
 }
